@@ -1,0 +1,23 @@
+Edges in the constructed MST
+Almaty < - > Qaskeleng = ~22 km
+Türkistan < - > Kentaū = ~32 km
+Pavlodar < - > Ekibastuz = ~129 km
+Shymkent < - > Türkistan = ~157 km
+Shymkent < - > Taraz = ~158 km
+Petropavl < - > Kökshetaū = ~176 km
+Semey < - > Öskemen = ~178 km
+Nur-Sultan < - > Qaraghandy = ~190 km
+Almaty < - > Taldyqorghan = ~228 km
+Qaraghandy < - > Ekibastuz = ~265 km
+Nur-Sultan < - > Kökshetaū = ~276 km
+Türkistan < - > Qyzylorda = ~279 km
+Pavlodar < - > Semey = ~311 km
+Qyzylorda < - > Zhezqazghan = ~367 km
+Qostanay < - > Kökshetaū = ~385 km
+Aqtaū < - > Atyraū = ~389 km
+Aqtöbe < - > Oral = ~422 km
+Taraz < - > Qaskeleng = ~430 km
+Qaraghandy < - > Zhezqazghan = ~456 km
+Oral < - > Atyraū = ~459 km
+Aqtöbe < - > Qostanay = ~551 km
+MST by Kruskal Algorithm 5867.882608092215
