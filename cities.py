@@ -1,7 +1,6 @@
 import pandas
 
 def get_cities():
-
     # df = pandas.read_csv('kz.csv')
     df = pandas.read_csv('main_cities.csv')
 
